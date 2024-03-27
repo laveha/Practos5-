@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Models",
+    "\\ViewModels",
+    "\\Views"
+  ],
+  "SelectedNode": "\\ViewModels\\ViewModelBase.cs",
+  "PreviewInSolutionExplorer": false
+}
